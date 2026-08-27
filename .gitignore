@@ -1,0 +1,28 @@
+# Runtime artifacts
+__pycache__/
+*.py[cod]
+*.log
+*_runs/
+channel_plots/
+phase1_plots/
+phase1_z_plots/
+dbscan_plots/
+mnist_phase1_plots/
+
+# Data and model outputs
+Defense/data/*
+!Defense/data/gtsrb/
+!Defense/data/gtsrb/.gitkeep
+*.pt
+*.pth
+*.ckpt
+*.tar
+*.tar.gz
+*.zip
+*.bz2
+
+# Local environments
+.env
+.venv/
+venv/
+.DS_Store
