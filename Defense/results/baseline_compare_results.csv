@@ -1,0 +1,4 @@
+method,baseline,status,return_code,epochs_completed,ma,clean_accuracy,unseen_accuracy,asr,best_ma,best_unseen_accuracy,min_asr,log_file
+Differential Privacy,dp,completed,0,30,0.9351,0.9351,0.7970,0.6000,0.9394,0.9203,0.0001,Defense/baseline_compare_runs/dp/stdout.log
+k-means,kmeans,completed,0,30,0.9562,0.9562,0.1556,0.0000,0.9562,0.1575,0.0000,Defense/baseline_compare_runs/kmeans/stdout.log
+ZORRO,zorro,completed,0,30,0.9108,0.9108,0.4118,0.0000,0.9108,0.4326,0.0000,Defense/baseline_compare_runs/zorro/stdout.log
