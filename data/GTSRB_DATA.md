@@ -9,7 +9,9 @@ Place the following files under `Defense/data/gtsrb/` before running the GTSRB e
 | `GTSRB_Final_Test_GT.zip` | 99620 | `f94e5a7614d75845c74c04ddb26b8796b9e483f43541dd95dd5b726504e16d6d` |
 | `GT-final_test.csv` | 377382 | `58a660fab5465cce66d7334eb9422ae09ed16186ad4500766b59b5a077a1c12f` |
 
-The large archives are provided as GitHub Release assets instead of normal repository files. This avoids GitHub's per-file repository blob limit while keeping the review artifact accessible.
+The large archives are provided as GitHub Release assets instead of normal repository files.
+
+Release URL: https://github.com/Ustinianhu/RobustSL/releases/tag/gtsrb-data-v1 This avoids GitHub's per-file repository blob limit while keeping the review artifact accessible.
 
 Expected layout:
 
