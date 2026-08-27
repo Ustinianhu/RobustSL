@@ -1,0 +1,5 @@
+model,poison_rate,condition,unseen_ratio,num_malicious,status,epochs_completed,final_ma,final_clean_accuracy,final_unseen_accuracy,final_asr,best_ma,best_unseen_accuracy,min_asr,log_file
+googlenet,0.4,attack_defense,0.7,4,completed,30,0.9336,0.9336,0.1879,0.0,0.9346,0.3681,0.0,Defense/googlenet_poison_ratio_runs/googlenet_poison_0.4_attack_defense/stdout.log
+googlenet,0.6,attack_defense,0.7,4,completed,30,0.9451,0.9451,0.9545,0.0,0.9451,0.9545,0.0,Defense/googlenet_poison_ratio_runs/googlenet_poison_0.6_attack_defense/stdout.log
+googlenet,0.8,attack_defense,0.7,4,completed,30,0.9262,0.9262,0.0892,0.0,0.936,0.4288,0.0,Defense/googlenet_poison_ratio_runs/googlenet_poison_0.8_attack_defense/stdout.log
+googlenet,1.0,attack_defense,0.7,4,completed,30,0.9285,0.9285,0.1689,0.0001,0.9337,0.2884,0.0,Defense/googlenet_poison_ratio_runs/googlenet_poison_1.0_attack_defense/stdout.log
