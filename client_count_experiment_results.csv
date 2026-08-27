@@ -1,0 +1,8 @@
+num_clients,unseen_clients,unseen_client_ratio,unseen_data_ratio,malicious_clients,pmr,poison_rate,dataset,model,epochs,status,epochs_completed,final_ma,final_clean_accuracy,final_unseen_accuracy,final_asr,log_file
+5,1,0.2,0.7,1,0.2,0.8,GTSRB,ResNet18,30,completed,30,0.9358,0.9358,0.9355,0.0001,client_count_experiment_runs/clients_0005/stdout.log
+10,2,0.2,0.7,1,0.1,0.8,GTSRB,ResNet18,30,completed,30,0.9453,0.9453,0.9488,0.0002,client_count_experiment_runs/clients_0010/stdout.log
+15,3,0.2,0.7,2,0.13333333333333333,0.8,GTSRB,ResNet18,30,completed,30,0.9298,0.9298,0.9469,0.0,client_count_experiment_runs/clients_0015/stdout.log
+20,4,0.2,0.7,2,0.1,0.8,GTSRB,ResNet18,30,completed,30,0.9397,0.9397,0.9374,0.0003,client_count_experiment_runs/clients_0020/stdout.log
+25,5,0.2,0.7,2,0.08,0.8,GTSRB,ResNet18,30,completed,30,0.9241,0.9241,0.9146,0.0019,client_count_experiment_runs/clients_0025/stdout.log
+30,6,0.2,0.7,3,0.1,0.8,GTSRB,ResNet18,30,completed,30,0.923,0.923,0.9507,0.0,client_count_experiment_runs/clients_0030/stdout.log
+40,8,0.2,0.7,4,0.1,0.8,GTSRB,ResNet18,30,completed,30,0.9046,0.9046,0.5901,0.0002,client_count_experiment_runs/clients_0040/stdout.log
