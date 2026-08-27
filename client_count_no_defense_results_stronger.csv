@@ -1,0 +1,5 @@
+num_clients,unseen_clients,unseen_client_ratio,unseen_data_ratio,malicious_clients,pmr,poison_rate,dataset,model,epochs,status,epochs_completed,final_ma,final_clean_accuracy,final_unseen_accuracy,final_asr,log_file
+20,4,0.2,0.7,5,0.25,1.0,GTSRB,ResNet18,30,completed,30,0.0048,0.0048,0.0,0.9978,client_count_no_defense_stronger_runs/clients_0020/stdout.log
+25,5,0.2,0.7,6,0.24,1.0,GTSRB,ResNet18,30,completed,30,0.0048,0.0048,0.0,1.0,client_count_no_defense_stronger_runs/clients_0025/stdout.log
+30,6,0.2,0.7,8,0.26666666666666666,1.0,GTSRB,ResNet18,30,completed,30,0.0048,0.0048,0.0,1.0,client_count_no_defense_stronger_runs/clients_0030/stdout.log
+40,8,0.2,0.7,10,0.25,1.0,GTSRB,ResNet18,30,completed,30,0.0048,0.0048,0.0,1.0,client_count_no_defense_stronger_runs/clients_0040/stdout.log
