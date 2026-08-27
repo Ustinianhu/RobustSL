@@ -1,0 +1,5 @@
+eta,gpu,dataset,model,num_clients,unseen_clients,unseen_data_ratio,malicious_clients,pmr,poison_rate,epochs,status,epochs_completed,final_ma,final_ua,final_asr,log_file
+0.25,0,GTSRB,ResNet18,30,6,0.7,3,0.1,0.8,30,completed,30,0.9074,0.8083,0.103,eta_ablation_runs/eta_0_25/stdout.log
+0.5,1,GTSRB,ResNet18,30,6,0.7,3,0.1,0.8,30,completed,30,0.9335,0.9013,0.1644,eta_ablation_runs/eta_0_5/stdout.log
+0.75,2,GTSRB,ResNet18,30,6,0.7,3,0.1,0.8,30,completed,30,0.9438,0.8994,0.2683,eta_ablation_runs/eta_0_75/stdout.log
+1.0,3,GTSRB,ResNet18,30,6,0.7,3,0.1,0.8,30,completed,30,0.9428,0.9298,0.0001,eta_ablation_runs/eta_1/stdout.log
