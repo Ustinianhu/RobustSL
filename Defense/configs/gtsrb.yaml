@@ -1,0 +1,15 @@
+seed: 1280
+num_clients: 10
+iid_rate: 0.8
+
+batch_size: 64
+steps_per_client: 20
+epochs: 50
+
+server:
+  lr: 0.01
+  device: cuda
+
+clients:
+  lr_head: 0.01
+  lr_tail: 0.01
