@@ -17,7 +17,7 @@ This artifact contains the source code, configurations, scripts, summarized expe
 
 Only GTSRB-related data artifacts are provided. Other datasets used during development or exploratory experiments, including MNIST, FMNIST, CIFAR-10, and CIFAR-100, are not included in this artifact package.
 
-The GTSRB training archive is larger than GitHub's normal repository blob limit, so it is distributed as a release asset rather than committed directly into the repository. See `data/GTSRB_DATA.md` for file names, placement, and SHA-256 checksums.
+The GTSRB training archive is larger than GitHub's normal repository blob limit, so it is distributed as a release asset rather than committed directly into the repository. See `data/GTSRB_DATA.md` for file names, placement, and SHA-256 checksums. The GTSRB release assets are available at https://github.com/Ustinianhu/RobustSL/releases/tag/gtsrb-data-v1.
 
 ## Excluded Artifacts
 
